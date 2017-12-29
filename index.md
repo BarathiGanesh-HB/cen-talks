@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Recent Talks given by CEN faculties (last two months) 
 
-You can use the [editor on GitHub](https://github.com/BarathiGanesh-HB/cen-talks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. Mr. Vijay Krishna Menon, faculty-CEN, is invited to give a talk on "**Algorithms in Machine learning**" in the FDP programme held at the CET College of Engineering, Trivandrum on 21/12/17.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Dr. Soman K.P and Dr. EA Gopalakrishnan , gave an invited talk on "**Machine learning applications in Fluid Dynamics**", in the 44th National Conference on Fluid Mechanics and Fluid Power (FMFP � 2017) held at Amrita Vishwa Vidyapeetham, Amritapuri campus, on December 14-16, 2017.Presentation
 
-### Markdown
+3. Dr. Soman K.P, gave an invited talk on "**Artificial Intelligence for Biomedical Applications**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Ms. Sowmya, gave an invited talk on "**Deep learning for Medical Images**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-```markdown
-Syntax highlighted code block
+5. Ms. Sowmya, & (Vinayakumar R, Research Scholar) took hands on Session on "**Artificial Intelligence for Biomedical Applications**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-# Header 1
-## Header 2
-### Header 3
+6. Dr. Soman K.P HOD-CEN, gave a Keynote speech on "**Key Enabling Technologies for 5G Wireless Networks**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, Presentation
 
-- Bulleted
-- List
+7. Mr. Ajith Peter, Research Scholar, CEN gave a talk on "**SDR and GPS**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, Presentation
 
-1. Numbered
-2. List
+8. Dr. Gandhiraj, ECE/CEN faculty gave a talk on "**GNUradio and applications**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, Presentation
 
-**Bold** and _Italic_ and `Code` text
+9. Dr. Govind D was invited to deliver a talk on **Overview of Speech technology** in the faculty development program titled Advanced Topics in Signal and Image Processing, 30/11/2017
 
-[Link](url) and ![Image](src)
-```
+10. Dr. M. Anand Kumar, faculty-CEN, gave an invited talk on "**Current Trends in Natural language Processing and Text Analytics**" organized by Academic Staff college, Bharathiar University at the University conference hall on 27/11/17.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+11. Mr. Vijay Krishna Menon, faculty-CEN, gave an invited talk on "**Machine learning and Deep learning Algorithms**", in the FDP programme held at TKM College of Engineering, Kollam, on 25/11/17. Presentation1, Presentation2, Presentation3
 
-### Jekyll Themes
+12. Dr. Govind D delivered a keynote address in the national conference , **Research Issues in Image and Signal Processing** organized at Sri ramakrishna College of Engineering, Coimbatore on 23/11/2017 Certificate
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BarathiGanesh-HB/cen-talks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+13. Dr. Soman K.P HOD-CEN, gave a Keynote speech on "**Deep learning and applications to Cyber Security**" organized by Academic Staff college, Bharathiar University at the University conference hall on 21/11/17.
 
-### Support or Contact
+14. Ms. Sowmya, faculty-CEN, gave a an invited talk on "**Drone based Hyperspectral Imaging for Precision Agriculture**" organized by Academic Staff college, Bharathiar University at the University conference hall on 21/11/17.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+15. Dr. M. Anand Kumar, faculty-CEN, gave an invited talk on **Deep Learning for image & Text Processing** organized by the department of Computer Science & Engineering, SSN -Chennai on 21/11/2017
+
+16. Mr. Vijay Krishna Menon, faculty-CEN, gave an invited talk on **Machine learning on Healthcare** in the ICMR sponsored programme held at the Sri Krishna College of Technology, Coimbatore on 08/11/17.
+
+17. Dr. Geetha P, faculty-RSW, Invited as an external expert for the Selection Committee Meeting for the post of Research Assistant under DST-SERB project at Avinashilingam University on 1st Sept 2017.
+
+18. Dr. Geetha P, faculty-RSW, gave Invited for a talk on **Satellite Image Processing** at Avinashilingam University on 15th Sept 2017.
+
+19. Dr. Geetha P, faculty-RSW, delivered a lecture on **mapping of Vector Borne Diseases using GIS** at PSGR Krishnammal College for women on 26th Sept 2017.
+
+20. Dr. Geetha P, faculty-RSW, gave Invited as an expert to conduct a Two day workshop on **Dengue Mapping in Kolar Region-Karnataka** by Department of Community medicine during 14-15th June at Sri Devaraj urs Medical College, Kolar. Presentation1,Presentation2
+
+21. Dr. Geetha P, faculty-RSW, gave a talk on **Air pollution** in AICTE sponsored FDP.@Annamalai University Chidambaram While attending a FDP On Advances in Waste water Treatment and Air pollution control techniques during 13-25th November 2017
+
