@@ -1,7 +1,7 @@
 ## Upcoming Talks
 1. Dr. Soman K.P gives an invited talk on **Deep Learning** in Mepco Schlenk Engineering College, Sivakasi (08/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB and Mr. Sachin Kumar S
 
-2. Mrs. Sowmya gives an invited talk on **Deep Learning for Bio-medical Application** in Mepco Schlenk Engineering College, Sivakasi (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S
+2. Mrs. Sowmya gives an invited talk on **Deep Learning for Bio-medical Application** in Mepco Schlenk Engineering College, Sivakasi (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Vinayakumar R
 
 3. Dr. Soman K.P gives an invited talk on **Linear Algebra** in TKM College of Engineering, Kollam (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S and Ms. Neethu Mohan.
 
@@ -9,33 +9,33 @@
 
 ## Recent talks given by CEN faculties (last two months) 
 
-1. Mr. Vijay Krishna Menon, faculty-CEN, is invited to give a talk on "**Algorithms in Machine learning**" in the FDP programme held at the CET College of Engineering, Trivandrum on 21/12/17.
+1. Mr. Vijay Krishna Menon gave an invited talk on "**Algorithms in Machine learning**" in the FDP programme held at the CET College of Engineering, Trivandrum on 21/12/17.
 
-2. Dr. Soman K.P and Dr. EA Gopalakrishnan , gave an invited talk on "**Machine learning applications in Fluid Dynamics**", in the 44th National Conference on Fluid Mechanics and Fluid Power (FMFP - 2017) held at Amrita Vishwa Vidyapeetham, Amritapuri campus, on December 14-16, 2017. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/fluiddynamics.pdf)
+2. Dr. Soman K.P and Dr. EA Gopalakrishnan , gave an invited talk on "**Machine learning applications in Fluid Dynamics**", in the 44th National Conference on Fluid Mechanics and Fluid Power (FMFP - 2017) held at Amrita Vishwa Vidyapeetham, Amritapuri campus, on December 14-16, 2017. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/fluiddynamics.pdf?raw=true)
 
 3. Dr. Soman K.P, gave an invited talk on "**Artificial Intelligence for Biomedical Applications**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-4. Ms. Sowmya, gave an invited talk on "**Deep learning for Medical Images**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
+4. Mrs. Sowmya, gave an invited talk on "**Deep learning for Medical Images**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-5. Ms. Sowmya, & (Vinayakumar R, Research Scholar) took hands on Session on "**Artificial Intelligence for Biomedical Applications**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
+5. Mrs. Sowmya, & (Vinayakumar R, Research Scholar) took hands on Session on "**Artificial Intelligence for Biomedical Applications**" in the TEQIP-II sponsored Faculty Development Programme held at Department of Electrical and Electronics Engineering, TKM College of Engineering, Kollam 14/12/2017.
 
-6. Dr. Soman K.P HOD-CEN, gave a Keynote speech on "**Key Enabling Technologies for 5G Wireless Networks**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Soman-NIT.pptx)
+6. Dr. Soman K.P HOD-CEN, gave a Keynote speech on "**Key Enabling Technologies for 5G Wireless Networks**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Soman-NIT.pptx?raw=true)
 
-7. Mr. Ajith Peter, Research Scholar, CEN gave a talk on "**SDR and GPS**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Ajith%20Peter-NIT.pptx)
+7. Mr. Ajith Peter, Research Scholar, CEN gave a talk on "**SDR and GPS**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Ajith%20Peter-NIT.pptx?raw=true)
 
-8. Dr. Gandhiraj, ECE/CEN faculty gave a talk on "**GNUradio and applications**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Dr.%20Gandhiraj-NIT.pptx)
+8. Dr. Gandhiraj, ECE/CEN faculty gave a talk on "**GNUradio and applications**" in GIAN Course held at Department of ECE, NIT Calicut December 8-13, 2017, [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/Dr.%20Gandhiraj-NIT.pptx?raw=true)
 
 9. Dr. Govind D was invited to deliver a talk on **Overview of Speech technology** in the faculty development program titled Advanced Topics in Signal and Image Processing, 30/11/2017
 
 10. Dr. M. Anand Kumar, faculty-CEN, gave an invited talk on "**Current Trends in Natural language Processing and Text Analytics**" organized by Academic Staff college, Bharathiar University at the University conference hall on 27/11/17.
 
-11. Mr. Vijay Krishna Menon, faculty-CEN, gave an invited talk on "**Machine learning and Deep learning Algorithms**", in the FDP programme held at TKM College of Engineering, Kollam, on 25/11/17. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/vijay-tkm1.JPG)
+11. Mr. Vijay Krishna Menon, faculty-CEN, gave an invited talk on "**Machine learning and Deep learning Algorithms**", in the FDP programme held at TKM College of Engineering, Kollam, on 25/11/17. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/vijay-tkm1.JPG?raw=true)
 
-12. Dr. Govind D delivered a keynote address in the national conference , **Research Issues in Image and Signal Processing** organized at Sri ramakrishna College of Engineering, Coimbatore on 23/11/2017 [Certificate](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/SriRamaKrishna.jpg)
+12. Dr. Govind D delivered a keynote address in the national conference , **Research Issues in Image and Signal Processing** organized at Sri ramakrishna College of Engineering, Coimbatore on 23/11/2017 [Certificate](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/SriRamaKrishna.jpg?raw=true)
 
 13. Dr. Soman K.P HOD-CEN, gave a Keynote speech on "**Deep learning and applications to Cyber Security**" organized by Academic Staff college, Bharathiar University at the University conference hall on 21/11/17.
 
-14. Ms. Sowmya, faculty-CEN, gave a an invited talk on "**Drone based Hyperspectral Imaging for Precision Agriculture**" organized by Academic Staff college, Bharathiar University at the University conference hall on 21/11/17.
+14. Mrs. Sowmya, faculty-CEN, gave a an invited talk on "**Drone based Hyperspectral Imaging for Precision Agriculture**" organized by Academic Staff college, Bharathiar University at the University conference hall on 21/11/17.
 
 15. Dr. M. Anand Kumar, faculty-CEN, gave an invited talk on **Deep Learning for image & Text Processing** organized by the department of Computer Science & Engineering, SSN -Chennai on 21/11/2017
 
@@ -47,7 +47,7 @@
 
 19. Dr. Geetha P, faculty-RSW, delivered a lecture on **mapping of Vector Borne Diseases using GIS** at PSGR Krishnammal College for women on 26th Sept 2017.
 
-20. Dr. Geetha P, faculty-RSW, gave Invited as an expert to conduct a Two day workshop on **Dengue Mapping in Kolar Region-Karnataka** by Department of Community medicine during 14-15th June at Sri Devaraj urs Medical College, Kolar. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/dev.png)
+20. Dr. Geetha P, faculty-RSW, gave Invited as an expert to conduct a Two day workshop on **Dengue Mapping in Kolar Region-Karnataka** by Department of Community medicine during 14-15th June at Sri Devaraj urs Medical College, Kolar. [Presentation](https://github.com/BarathiGanesh-HB/cen-talks/blob/master/dev.png?raw=true)
 
 21. Dr. Geetha P, faculty-RSW, gave a talk on **Air pollution** in AICTE sponsored FDP.@Annamalai University Chidambaram While attending a FDP On Advances in Waste water Treatment and Air pollution control techniques during 13-25th November 2017
 
