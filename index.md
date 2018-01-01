@@ -1,4 +1,13 @@
-## Recent Talks given by CEN faculties (last two months) 
+## Upcoming Talks
+1. Dr. Soman K.P gives an invited talk on **Deep Learning** in Mepco Schlenk Engineering College, Sivakasi (08/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB and Mr. Sachin Kumar S
+
+2. Mrs. Sowmya gives an invited talk on **Deep Learning for Bio-medical Application** in Mepco Schlenk Engineering College, Sivakasi (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S
+
+3. Dr. Soman K.P gives an invited talk on **Linear Algebra** in TKM College of Engineering, Kollam (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S and Ms. Neethu Mohan.
+
+4. Dr. Soman K.P gives an invited talk on **Deep Learning for NLP** in Vidya Academy of Science & Technology, Thrissur (20 - 21/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB, Mr. Pemjith and Mr. Sachin Kumar S.
+
+## Recent talks given by CEN faculties (last two months) 
 
 1. Mr. Vijay Krishna Menon, faculty-CEN, is invited to give a talk on "**Algorithms in Machine learning**" in the FDP programme held at the CET College of Engineering, Trivandrum on 21/12/17.
 
