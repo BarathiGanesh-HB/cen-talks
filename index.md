@@ -1,11 +1,11 @@
 ## Upcoming Talks
-1. Dr. Soman K.P gives an invited talk on **Deep Learning** in Mepco Schlenk Engineering College, Sivakasi (08/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB and Mr. Sachin Kumar S
+1. Dr. Soman K.P gives an invited talk on **Deep Learning** in Mepco Schlenk Engineering College, Sivakasi (16/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB and Mr. Sachin Kumar S
 
-2. Mrs. Sowmya gives an invited talk on **Deep Learning for Bio-medical Application** in Mepco Schlenk Engineering College, Sivakasi (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Vinayakumar R
+2. Mrs. Sowmya gives an invited talk on **Deep Learning for Bio-medical Application** in Mepco Schlenk Engineering College, Sivakasi (17/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Vinayakumar R
 
-3. Dr. Soman K.P gives an invited talk on **Linear Algebra** in TKM College of Engineering, Kollam (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S and Ms. Neethu Mohan.
+3. Dr. Soman K.P gives an invited talk on **Linear Algebra for Machine Learning** in TKM College of Engineering, Kollam (09/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Sachin Kumar S and Ms. Neethu Mohan.
 
-4. Dr. Soman K.P gives an invited talk on **Deep Learning for NLP** in Vidya Academy of Science & Technology, Thrissur (20 - 21/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB, Mr. Pemjith and Mr. Sachin Kumar S.
+4. Dr. Soman K.P gives an invited talk on **Deep Learning for NLP** in Vidya Academy of Science & Technology, Thrissur (20/01/2018). Detailed tutorials and hands on sessions will be covered by Mr. Barathi Ganesh HB, Mr. Pemjith and Mr. Sachin Kumar S.
 
 ## Recent talks given by CEN faculties (last two months) 
 
